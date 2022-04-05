@@ -15,7 +15,7 @@ const App = () =>{
       setMyName('Hooks are special functions..!');
     } else {
       setToggleName(1);
-      setMyName('This is useState example!');
+      setMyName('This is useState example!!');
     }
   } 
   return (
